@@ -1,6 +1,8 @@
 # css-triangle-generate
 
-## 一个css 三角形样式生成器 使用vue.3.0 ant-design-vue 制作
+> 一个css 三角形样式生成器 使用vue.3.0 制作
+[在线预览](https://blog.hjplay.cn/css-triangle-generate/)
+
 ![](src/assets/jt.png "效果截图")
 
 ## Project setup
