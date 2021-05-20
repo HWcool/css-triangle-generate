@@ -30,6 +30,7 @@
         <span>CSS：</span>
         <a-textarea
           v-model:value="jsonStyle"
+          readonly
           :auto-size="{ minRows: 10, maxRows: 5 }"
         />
       </div>  
