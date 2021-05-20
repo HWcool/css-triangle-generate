@@ -1,5 +1,7 @@
 module.exports = {
-  publicPath: '/',
+  publicPath: './',
   assetsDir: 'static',
-  outputDir: 'docs',
+  chainWebpack: config => {
+    config.title = 'css-triangle-generate'
+  }
 }
